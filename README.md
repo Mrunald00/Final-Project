@@ -13,4 +13,4 @@ Q4: What are/were their occupations?
 Except for these questions, we will also study the influence of Wikipedia's readers and contributors. We want to acquire some interesting insights from these questions and diagrams. And we hope the data and insights can be inspiring and help people with future designs.
 
 
-![alt text]([http://url/to/img.pn](https://github.com/Mrunald00/Final-Project/blob/main/Graph%201.png))
+![Graph 1]([http://url/to/img.pn](https://github.com/Mrunald00/Final-Project/blob/main/Graph%201.png))
