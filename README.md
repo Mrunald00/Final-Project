@@ -14,3 +14,4 @@ Except for these questions, we will also study the influence of Wikipedia's read
 
 
 ![Graph 1](https://github.com/Mrunald00/Final-Project/blob/417e3d13d1a2d930ba0653638b9bf4b52fa19e62/Graph%201.png)
+![Graph 2](https://github.com/Mrunald00/Final-Project/blob/6ab2f7c53833f235c242c3b1c1e86bc80c7a51cd/Graph%202.png)
